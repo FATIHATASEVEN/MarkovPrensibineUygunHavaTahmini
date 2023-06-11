@@ -1,0 +1,15 @@
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\kendi.csproj.AssemblyReference.cache
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\kendi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\kendi.AssemblyInfoInputs.cache
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\kendi.AssemblyInfo.cs
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\kendi.csproj.CoreCompileInputs.cache
+C:\Users\tr\source\repos\kendi\kendi\bin\Debug\net6.0\kendi.exe
+C:\Users\tr\source\repos\kendi\kendi\bin\Debug\net6.0\kendi.deps.json
+C:\Users\tr\source\repos\kendi\kendi\bin\Debug\net6.0\kendi.runtimeconfig.json
+C:\Users\tr\source\repos\kendi\kendi\bin\Debug\net6.0\kendi.dll
+C:\Users\tr\source\repos\kendi\kendi\bin\Debug\net6.0\kendi.pdb
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\kendi.dll
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\refint\kendi.dll
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\kendi.pdb
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\kendi.genruntimeconfig.cache
+C:\Users\tr\source\repos\kendi\kendi\obj\Debug\net6.0\ref\kendi.dll
